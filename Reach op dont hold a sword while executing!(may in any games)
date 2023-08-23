@@ -1,2 +1,2 @@
-game.Players.LocalPlayer.Classic.Handle.Size = Vector3.new(300,300,300)
+game.Players.LocalPlayer.Classic.Handle.Size = UDim2.new(300,300,300)
 game.Players.LocalPlayer.Classic.Handle.Transparency = 1
