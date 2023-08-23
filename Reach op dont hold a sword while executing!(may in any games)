@@ -1,2 +1,4 @@
-game.Players.LocalPlayer.Backpack.Classic.Handle.Size = Vector3.new(300,300,300)
-game.Players.LocalPlayer.Backpack.Classic.Handle.Transparency = 1
+game.Workspace.DoctorTa2355.Classic.Handle.Transparency = 1 --at Workspace.DoctorTa type ur name
+wait(1)
+game.Workspace.DoctorTa2355.Classic.Name = "Nothing"
+game.Workspace.DoctorTa2355.Classic.Handle.Size = Vector3.new(3456,3456,3456)
